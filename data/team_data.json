@@ -1,0 +1,294 @@
+{
+  "elo_ratings": {
+    "Saudi Arabia": 1650.0570829165365,
+    "Qatar": 1540.9652134037983,
+    "Egypt": 1782.3982297827747,
+    "South Africa": 1635.8913816587535,
+    "Cura\u00e7ao": 1573.7470472400112,
+    "Tunisia": 1756.7416357621764,
+    "DR Congo": 1736.4584860949094,
+    "Algeria": 1861.302929675285,
+    "Canada": 1846.0145242213912,
+    "Senegal": 1905.5913216032104,
+    "Sweden": 1718.897626148833,
+    "Norway": 1838.8266828367834,
+    "Morocco": 1943.854134186108,
+    "Panama": 1786.0460396761096,
+    "Haiti": 1673.4945349177042,
+    "Japan": 1951.0499406868003,
+    "Iraq": 1714.287448396166,
+    "Jordan": 1742.706327154323,
+    "South Korea": 1828.4788154913726,
+    "Bosnia and Herzegovina": 1562.2169991220624,
+    "Mexico": 1874.104290749376,
+    "Switzerland": 1862.771518938411,
+    "Netherlands": 1926.9403183815887,
+    "United States": 1761.43515267365,
+    "Uzbekistan": 1807.0375933321814,
+    "Spain": 2092.5727655253513,
+    "Australia": 1857.4128776501377,
+    "Scotland": 1695.4110864243567,
+    "Portugal": 1955.395516454611,
+    "England": 1948.5557053900773,
+    "Belgium": 1872.9808146156684,
+    "France": 2039.2205134767728,
+    "Croatia": 1905.3283794745755,
+    "Germany": 1905.2027436037263,
+    "Iran": 1865.9384851392772,
+    "Brazil": 2012.0568556401095,
+    "Czech Republic": 1709.4853454455479,
+    "Uruguay": 1901.8307315730278,
+    "Colombia": 1986.5017139215465,
+    "Ecuador": 1935.5127283957245,
+    "Argentina": 2107.9577739085044,
+    "Paraguay": 1822.7620603407354,
+    "Austria": 1822.5745614971024,
+    "Ivory Coast": 1793.0738621039459,
+    "Turkey": 1840.6835064335694,
+    "Ghana": 1605.6642037391891,
+    "New Zealand": 1685.8005228914817,
+    "Cape Verde": 1653.1189310748102
+  },
+  "team_snapshots": {
+    "Mexico": {
+      "elo": 1874.104290749376,
+      "goals_scored_avg": 1.4,
+      "goals_conceded_avg": 0.2
+    },
+    "South Korea": {
+      "elo": 1828.4788154913726,
+      "goals_scored_avg": 1.0,
+      "goals_conceded_avg": 1.0
+    },
+    "South Africa": {
+      "elo": 1635.8913816587535,
+      "goals_scored_avg": 1.2,
+      "goals_conceded_avg": 1.6
+    },
+    "Czech Republic": {
+      "elo": 1709.4853454455479,
+      "goals_scored_avg": 2.4,
+      "goals_conceded_avg": 1.2
+    },
+    "Canada": {
+      "elo": 1846.0145242213912,
+      "goals_scored_avg": 0.8,
+      "goals_conceded_avg": 0.4
+    },
+    "Bosnia and Herzegovina": {
+      "elo": 1562.2169991220624,
+      "goals_scored_avg": 2.0,
+      "goals_conceded_avg": 1.0
+    },
+    "Qatar": {
+      "elo": 1540.9652134037983,
+      "goals_scored_avg": 0.8,
+      "goals_conceded_avg": 1.6
+    },
+    "Switzerland": {
+      "elo": 1862.771518938411,
+      "goals_scored_avg": 1.6,
+      "goals_conceded_avg": 1.2
+    },
+    "Brazil": {
+      "elo": 2012.0568556401095,
+      "goals_scored_avg": 1.8,
+      "goals_conceded_avg": 1.4
+    },
+    "Morocco": {
+      "elo": 1943.854134186108,
+      "goals_scored_avg": 1.6,
+      "goals_conceded_avg": 0.4
+    },
+    "Haiti": {
+      "elo": 1673.4945349177042,
+      "goals_scored_avg": 0.8,
+      "goals_conceded_avg": 1.0
+    },
+    "Scotland": {
+      "elo": 1695.4110864243567,
+      "goals_scored_avg": 1.6,
+      "goals_conceded_avg": 1.6
+    },
+    "United States": {
+      "elo": 1761.43515267365,
+      "goals_scored_avg": 2.2,
+      "goals_conceded_avg": 2.0
+    },
+    "Paraguay": {
+      "elo": 1822.7620603407354,
+      "goals_scored_avg": 1.0,
+      "goals_conceded_avg": 1.4
+    },
+    "Australia": {
+      "elo": 1857.4128776501377,
+      "goals_scored_avg": 1.4,
+      "goals_conceded_avg": 1.4
+    },
+    "Turkey": {
+      "elo": 1840.6835064335694,
+      "goals_scored_avg": 2.0,
+      "goals_conceded_avg": 0.6
+    },
+    "Germany": {
+      "elo": 1905.2027436037263,
+      "goals_scored_avg": 3.0,
+      "goals_conceded_avg": 0.8
+    },
+    "Cura\u00e7ao": {
+      "elo": 1573.7470472400112,
+      "goals_scored_avg": 1.8,
+      "goals_conceded_avg": 1.6
+    },
+    "Ivory Coast": {
+      "elo": 1793.0738621039459,
+      "goals_scored_avg": 2.6,
+      "goals_conceded_avg": 1.0
+    },
+    "Ecuador": {
+      "elo": 1935.5127283957245,
+      "goals_scored_avg": 1.0,
+      "goals_conceded_avg": 0.6
+    },
+    "Netherlands": {
+      "elo": 1926.9403183815887,
+      "goals_scored_avg": 2.4,
+      "goals_conceded_avg": 0.6
+    },
+    "Japan": {
+      "elo": 1951.0499406868003,
+      "goals_scored_avg": 2.0,
+      "goals_conceded_avg": 0.4
+    },
+    "Sweden": {
+      "elo": 1718.897626148833,
+      "goals_scored_avg": 1.6,
+      "goals_conceded_avg": 1.8
+    },
+    "Tunisia": {
+      "elo": 1756.7416357621764,
+      "goals_scored_avg": 1.0,
+      "goals_conceded_avg": 1.0
+    },
+    "Belgium": {
+      "elo": 1872.9808146156684,
+      "goals_scored_avg": 3.6,
+      "goals_conceded_avg": 1.2
+    },
+    "Egypt": {
+      "elo": 1782.3982297827747,
+      "goals_scored_avg": 1.4,
+      "goals_conceded_avg": 0.6
+    },
+    "Iran": {
+      "elo": 1865.9384851392772,
+      "goals_scored_avg": 1.6,
+      "goals_conceded_avg": 0.4
+    },
+    "New Zealand": {
+      "elo": 1685.8005228914817,
+      "goals_scored_avg": 1.2,
+      "goals_conceded_avg": 1.6
+    },
+    "Spain": {
+      "elo": 2092.5727655253513,
+      "goals_scored_avg": 2.6,
+      "goals_conceded_avg": 0.4
+    },
+    "Cape Verde": {
+      "elo": 1653.1189310748102,
+      "goals_scored_avg": 1.4,
+      "goals_conceded_avg": 1.2
+    },
+    "Saudi Arabia": {
+      "elo": 1650.0570829165365,
+      "goals_scored_avg": 0.6,
+      "goals_conceded_avg": 1.8
+    },
+    "Uruguay": {
+      "elo": 1901.8307315730278,
+      "goals_scored_avg": 0.8,
+      "goals_conceded_avg": 1.4
+    },
+    "France": {
+      "elo": 2039.2205134767728,
+      "goals_scored_avg": 2.8,
+      "goals_conceded_avg": 1.0
+    },
+    "Senegal": {
+      "elo": 1905.5913216032104,
+      "goals_scored_avg": 1.4,
+      "goals_conceded_avg": 0.8
+    },
+    "Iraq": {
+      "elo": 1714.287448396166,
+      "goals_scored_avg": 1.2,
+      "goals_conceded_avg": 1.0
+    },
+    "Norway": {
+      "elo": 1838.8266828367834,
+      "goals_scored_avg": 2.0,
+      "goals_conceded_avg": 1.0
+    },
+    "Argentina": {
+      "elo": 2107.9577739085044,
+      "goals_scored_avg": 3.2,
+      "goals_conceded_avg": 0.2
+    },
+    "Algeria": {
+      "elo": 1861.302929675285,
+      "goals_scored_avg": 2.2,
+      "goals_conceded_avg": 0.6
+    },
+    "Austria": {
+      "elo": 1822.5745614971024,
+      "goals_scored_avg": 1.8,
+      "goals_conceded_avg": 0.6
+    },
+    "Jordan": {
+      "elo": 1742.706327154323,
+      "goals_scored_avg": 1.6,
+      "goals_conceded_avg": 1.4
+    },
+    "Portugal": {
+      "elo": 1955.395516454611,
+      "goals_scored_avg": 2.6,
+      "goals_conceded_avg": 1.0
+    },
+    "DR Congo": {
+      "elo": 1736.4584860949094,
+      "goals_scored_avg": 1.4,
+      "goals_conceded_avg": 0.4
+    },
+    "Uzbekistan": {
+      "elo": 1807.0375933321814,
+      "goals_scored_avg": 1.4,
+      "goals_conceded_avg": 0.6
+    },
+    "Colombia": {
+      "elo": 1986.5017139215465,
+      "goals_scored_avg": 1.4,
+      "goals_conceded_avg": 1.2
+    },
+    "England": {
+      "elo": 1948.5557053900773,
+      "goals_scored_avg": 2.0,
+      "goals_conceded_avg": 0.4
+    },
+    "Croatia": {
+      "elo": 1905.3283794745755,
+      "goals_scored_avg": 2.4,
+      "goals_conceded_avg": 1.4
+    },
+    "Ghana": {
+      "elo": 1605.6642037391891,
+      "goals_scored_avg": 0.6,
+      "goals_conceded_avg": 2.0
+    },
+    "Panama": {
+      "elo": 1786.0460396761096,
+      "goals_scored_avg": 1.4,
+      "goals_conceded_avg": 0.8
+    }
+  }
+}
