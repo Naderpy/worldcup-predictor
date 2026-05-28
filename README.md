@@ -43,4 +43,4 @@ Python · scikit-learn · pandas · Streamlit
 
 ## Author
 
-Nader — Electrical Engineering student at Tel Aviv University
+Nader Rawashdy — Electrical Engineering student at Tel Aviv University
