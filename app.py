@@ -259,7 +259,7 @@ Source code: [github.com/Naderpy](https://github.com/Naderpy)
 """)
 
     st.markdown("---")
-    st.header("1 · The data")
+    st.header("1 · The Data")
     st.markdown("""
 - **~21,000 international football matches** from 2004 to 2026 (Kaggle's *international results* dataset)
 - **Elo ratings** computed from scratch by walking through every match chronologically, applying the standard *World Football Elo* formula (with home advantage and goal-difference multiplier)
@@ -268,7 +268,7 @@ Source code: [github.com/Naderpy](https://github.com/Naderpy)
 """)
 
     st.markdown("---")
-    st.header("2 · The model")
+    st.header("2 · The Model")
     st.markdown("""
 **Multinomial logistic regression** predicting `{home_win, draw, away_win}` from 9 features:
 
