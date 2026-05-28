@@ -211,12 +211,18 @@ elif page == "🏆 Tournament Simulation":
             "Δ": "{:+.2f}",
         }), height=600, use_container_width=True)
     else:
-        st.dataframe(df_main.style.format({
-            "Champ %": "{:.1f}%", "Final %": "{:.1f}%",
-            "Semi %": "{:.1f}%", "QF %": "{:.1f}%", "R16 %": "{:.1f}%",
-        }).background_gradient(subset=["Champ %"], cmap="Greens"),
-        height=600, use_container_width=True)
-
+       st.dataframe(
+            df_main,
+            height=600,
+            use_container_width=True,
+            column_config={
+                "Champ %":  st.column_config.NumberColumn(format="%.1f%%"),
+                "Final %":  st.column_config.NumberColumn(format="%.1f%%"),
+                "Semi %":   st.column_config.NumberColumn(format="%.1f%%"),
+                "QF %":     st.column_config.NumberColumn(format="%.1f%%"),
+                "R16 %":    st.column_config.NumberColumn(format="%.1f%%"),
+            },
+        )
     # Surprising findings
     st.markdown("---")
     st.subheader("🔍 Findings worth noticing")
