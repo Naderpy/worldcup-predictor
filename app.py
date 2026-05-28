@@ -322,11 +322,10 @@ This was an interesting non-result: at this calibration, tournament hot streaks 
     st.header("5 · Limitations (the honest list)")
     st.markdown("""
 - No injury or player-level data — purely team-level
-- Training base distances substituted for home-country distances at training time
 - Goal scorelines in simulations are heuristic, not from a Poisson model
 - The model trusts recent form heavily; Argentina's high probability may partly reflect their absurd recent goal-scoring streak rather than long-term skill
-- Bookmaker odds (the gold standard) usually have the favorite at 18-22% — my model has Argentina at 32%, which is on the bullish side
+- Bookmaker odds (the gold standard) usually have the favorite at 18-22% — my model has Argentina at 32%
 """)
 
     st.markdown("---")
-    st.caption("Built with Python, scikit-learn, and Streamlit. No models were harmed in the making of this app.")
+    st.caption("Built with Python, scikit-learn, and Streamlit.")
