@@ -79,12 +79,12 @@ st.sidebar.markdown("---")
 
 page = st.sidebar.radio(
     "Navigate",
-    ["🎯 Predict a Match", "🏆 Tournament Simulation", "📖 How It Works"],
+    ["Predict a Match", "Tournament Simulation", "How It Works"],
     label_visibility="collapsed",
 )
 
 st.sidebar.markdown("---")
-st.sidebar.caption("Built by Nader — [GitHub](https://github.com/Naderpy)")
+st.sidebar.caption("Built by Nader Rawashdy — [GitHub](https://github.com/Naderpy)")
 
 
 # ============================================================
@@ -156,7 +156,7 @@ if page == "🎯 Predict a Match":
 # PAGE 2: TOURNAMENT SIMULATION RESULTS
 # ============================================================
 
-elif page == "🏆 Tournament Simulation":
+elif page == "Tournament Simulation":
     st.title("Tournament Simulation Results")
     st.markdown(
         "These are aggregated results from running the entire 2026 World Cup "
@@ -225,7 +225,7 @@ elif page == "🏆 Tournament Simulation":
         )
     # Surprising findings
     st.markdown("---")
-    st.subheader("🔍 Findings worth noticing")
+    st.subheader("Findings worth noticing")
     findings_col1, findings_col2 = st.columns(2)
 
     with findings_col1:
