@@ -91,7 +91,7 @@ st.sidebar.caption("Built by Nader Rawashdy — [GitHub](https://github.com/Nade
 # PAGE 1: SINGLE MATCH PREDICTION
 # ============================================================
 
-if page == "🎯 Predict a Match":
+if page == "Predict a Match":
     st.title("Predict a Match")
     st.markdown("Pick two teams and a venue. The model returns probabilities for each outcome.")
 
